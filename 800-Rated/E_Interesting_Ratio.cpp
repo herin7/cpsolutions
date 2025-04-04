@@ -7,7 +7,7 @@ int main() {
     cin.tie(0);
     cout.tie(0);
 
-    int testCases;
+    int testCases = 0;
     cin >> testCases;
     
     vector<int> numbers(testCases);
